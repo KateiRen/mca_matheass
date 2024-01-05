@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "Mathe Ass",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -11,7 +11,11 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "main.py"
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [
         "test.ts"
